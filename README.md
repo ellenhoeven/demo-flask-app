@@ -1,4 +1,5 @@
-# cat-flask-app
+# demo-flask-app
+This project is a flask app that shows random gifs of cats.
 
 # Get started:
 - ```git clone cat-flask-app```
