@@ -8,4 +8,4 @@
 - ```pip3 install -r requirements.txt```
 
 # Run:
-- ```python catseverywhere.py
+- ```python catseverywhere.py```
