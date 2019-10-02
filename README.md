@@ -1,6 +1,6 @@
 # demo-flask-app
 This project is a flask app that shows random gifs of cats to experiment with Python's Flask module.
-It is based on OpenTechSchool's Flask Tutorial. In addition to the tutorial, I created a menu on the first place and the feature showing random gifs.
+It is based on OpenTechSchool's Flask Tutorial. In addition to the tutorial, I created a menu on the first place and a feature which shows random gifs.
 
 # Get started:
 - ```git clone demo-flask-app```
